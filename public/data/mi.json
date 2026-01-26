@@ -1,0 +1,17 @@
+{
+  "code": "mi",
+  "name": "Māori",
+  "region": "Pacific",
+  "cards": [
+    { "number": 1, "word": "tahi", "pronunciation": "TAH-hee", "image": "/images/mi/1.jpg" },
+    { "number": 2, "word": "rua", "pronunciation": "ROO-ah", "image": "/images/mi/2.jpg" },
+    { "number": 3, "word": "toru", "pronunciation": "TOH-roo", "image": "/images/mi/3.jpg" },
+    { "number": 4, "word": "whā", "pronunciation": "FAH", "image": "/images/mi/4.jpg" },
+    { "number": 5, "word": "rima", "pronunciation": "REE-mah", "image": "/images/mi/5.jpg" },
+    { "number": 6, "word": "ono", "pronunciation": "OH-noh", "image": "/images/mi/6.jpg" },
+    { "number": 7, "word": "whitu", "pronunciation": "FEE-too", "image": "/images/mi/7.jpg" },
+    { "number": 8, "word": "waru", "pronunciation": "WAH-roo", "image": "/images/mi/8.jpg" },
+    { "number": 9, "word": "iwa", "pronunciation": "EE-wah", "image": "/images/mi/9.jpg" },
+    { "number": 10, "word": "tekau", "pronunciation": "TEH-kow", "image": "/images/mi/10.jpg" }
+  ]
+}

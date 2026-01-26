@@ -1,0 +1,17 @@
+{
+  "code": "ceb",
+  "name": "Cebuano",
+  "region": "Philippines",
+  "cards": [
+    { "number": 1, "word": "usa", "pronunciation": "oo-SAH", "image": "/images/ceb/1.jpg" },
+    { "number": 2, "word": "duha", "pronunciation": "doo-HAH", "image": "/images/ceb/2.jpg" },
+    { "number": 3, "word": "tulo", "pronunciation": "too-LOH", "image": "/images/ceb/3.jpg" },
+    { "number": 4, "word": "upat", "pronunciation": "OO-paht", "image": "/images/ceb/4.jpg" },
+    { "number": 5, "word": "lima", "pronunciation": "lee-MAH", "image": "/images/ceb/5.jpg" },
+    { "number": 6, "word": "unom", "pronunciation": "OO-nohm", "image": "/images/ceb/6.jpg" },
+    { "number": 7, "word": "pito", "pronunciation": "pee-TOH", "image": "/images/ceb/7.jpg" },
+    { "number": 8, "word": "walo", "pronunciation": "wah-LOH", "image": "/images/ceb/8.jpg" },
+    { "number": 9, "word": "siyam", "pronunciation": "SHYAM", "image": "/images/ceb/9.jpg" },
+    { "number": 10, "word": "napulo", "pronunciation": "nah-POO-loh", "image": "/images/ceb/10.jpg" }
+  ]
+}

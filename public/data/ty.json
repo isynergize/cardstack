@@ -1,0 +1,17 @@
+{
+  "code": "ty",
+  "name": "Tahitian",
+  "region": "Pacific",
+  "cards": [
+    { "number": 1, "word": "tahi", "pronunciation": "TAH-hee", "image": "/images/ty/1.jpg" },
+    { "number": 2, "word": "piti", "pronunciation": "PEE-tee", "image": "/images/ty/2.jpg" },
+    { "number": 3, "word": "toru", "pronunciation": "TOH-roo", "image": "/images/ty/3.jpg" },
+    { "number": 4, "word": "maha", "pronunciation": "MAH-hah", "image": "/images/ty/4.jpg" },
+    { "number": 5, "word": "pae", "pronunciation": "PAH-eh", "image": "/images/ty/5.jpg" },
+    { "number": 6, "word": "ono", "pronunciation": "OH-noh", "image": "/images/ty/6.jpg" },
+    { "number": 7, "word": "hitu", "pronunciation": "HEE-too", "image": "/images/ty/7.jpg" },
+    { "number": 8, "word": "varu", "pronunciation": "VAH-roo", "image": "/images/ty/8.jpg" },
+    { "number": 9, "word": "iva", "pronunciation": "EE-vah", "image": "/images/ty/9.jpg" },
+    { "number": 10, "word": "ahuru", "pronunciation": "ah-HOO-roo", "image": "/images/ty/10.jpg" }
+  ]
+}

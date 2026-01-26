@@ -1,0 +1,17 @@
+{
+  "code": "de",
+  "name": "German",
+  "region": "Europe",
+  "cards": [
+    { "number": 1, "word": "eins", "pronunciation": "eyns", "image": "/images/de/1.jpg" },
+    { "number": 2, "word": "zwei", "pronunciation": "tsvy", "image": "/images/de/2.jpg" },
+    { "number": 3, "word": "drei", "pronunciation": "dry", "image": "/images/de/3.jpg" },
+    { "number": 4, "word": "vier", "pronunciation": "feer", "image": "/images/de/4.jpg" },
+    { "number": 5, "word": "fünf", "pronunciation": "fewnf", "image": "/images/de/5.jpg" },
+    { "number": 6, "word": "sechs", "pronunciation": "zeks", "image": "/images/de/6.jpg" },
+    { "number": 7, "word": "sieben", "pronunciation": "ZEE-ben", "image": "/images/de/7.jpg" },
+    { "number": 8, "word": "acht", "pronunciation": "ahkt", "image": "/images/de/8.jpg" },
+    { "number": 9, "word": "neun", "pronunciation": "noyn", "image": "/images/de/9.jpg" },
+    { "number": 10, "word": "zehn", "pronunciation": "tsayn", "image": "/images/de/10.jpg" }
+  ]
+}

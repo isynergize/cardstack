@@ -1,0 +1,17 @@
+{
+  "code": "he",
+  "name": "Hebrew",
+  "region": "Middle East",
+  "cards": [
+    { "number": 1, "word": "אחת", "pronunciation": "ah-KHAT", "image": "/images/he/1.jpg" },
+    { "number": 2, "word": "שתיים", "pronunciation": "SHTA-yeem", "image": "/images/he/2.jpg" },
+    { "number": 3, "word": "שלוש", "pronunciation": "shah-LOSH", "image": "/images/he/3.jpg" },
+    { "number": 4, "word": "ארבע", "pronunciation": "AR-bah", "image": "/images/he/4.jpg" },
+    { "number": 5, "word": "חמש", "pronunciation": "khah-MESH", "image": "/images/he/5.jpg" },
+    { "number": 6, "word": "שש", "pronunciation": "shesh", "image": "/images/he/6.jpg" },
+    { "number": 7, "word": "שבע", "pronunciation": "SHEH-vah", "image": "/images/he/7.jpg" },
+    { "number": 8, "word": "שמונה", "pronunciation": "shmoh-NEH", "image": "/images/he/8.jpg" },
+    { "number": 9, "word": "תשע", "pronunciation": "TAY-shah", "image": "/images/he/9.jpg" },
+    { "number": 10, "word": "עשר", "pronunciation": "EH-sehr", "image": "/images/he/10.jpg" }
+  ]
+}

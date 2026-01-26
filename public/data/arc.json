@@ -1,0 +1,17 @@
+{
+  "code": "arc",
+  "name": "Aramaic",
+  "region": "Middle East",
+  "cards": [
+    { "number": 1, "word": "ܚܕ", "pronunciation": "khad", "image": "/images/arc/1.jpg" },
+    { "number": 2, "word": "ܬܪܝܢ", "pronunciation": "treyn", "image": "/images/arc/2.jpg" },
+    { "number": 3, "word": "ܬܠܬܐ", "pronunciation": "tlah-TAH", "image": "/images/arc/3.jpg" },
+    { "number": 4, "word": "ܐܪܒܥܐ", "pronunciation": "ar-BAH", "image": "/images/arc/4.jpg" },
+    { "number": 5, "word": "ܚܡܫܐ", "pronunciation": "kham-SHAH", "image": "/images/arc/5.jpg" },
+    { "number": 6, "word": "ܫܬܐ", "pronunciation": "sheh-TAH", "image": "/images/arc/6.jpg" },
+    { "number": 7, "word": "ܫܒܥܐ", "pronunciation": "shva-AH", "image": "/images/arc/7.jpg" },
+    { "number": 8, "word": "ܬܡܢܝܐ", "pronunciation": "tmahn-YAH", "image": "/images/arc/8.jpg" },
+    { "number": 9, "word": "ܬܫܥܐ", "pronunciation": "tshah-AH", "image": "/images/arc/9.jpg" },
+    { "number": 10, "word": "ܥܣܪܐ", "pronunciation": "es-RAH", "image": "/images/arc/10.jpg" }
+  ]
+}

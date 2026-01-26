@@ -1,0 +1,76 @@
+# Learn Numbers Flashcard App
+# https://your-domain.com
+# Last Updated: 2026-01-25
+
+## Overview
+
+Learn Numbers is a free, interactive flashcard application for learning to count from 1 to 10 in 19 different languages. The app features swipeable cards with flip animations, keyboard navigation, and progress persistence.
+
+## Purpose
+
+This educational web application helps users learn basic number vocabulary in multiple languages through interactive flashcards. Each card displays the numeral on the front and the word with pronunciation guide on the back.
+
+## Supported Languages
+
+### Pacific Region
+- Hawaiian (haw): ʻekahi, ʻelua, ʻekolu, ʻehā, ʻelima, ʻeono, ʻehiku, ʻewalu, ʻeiwa, ʻumi
+- Tahitian (ty): tahi, piti, toru, maha, pae, ono, hitu, varu, iva, ahuru
+- Māori (mi): tahi, rua, toru, whā, rima, ono, whitu, waru, iwa, tekau
+- Marquesan (mqm): tahi, ʻua, toʻu, fa, ʻima, ono, fitu, vaʻu, iva, onohuʻu
+
+### Europe Region
+- French (fr): un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix
+- German (de): eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn
+- Polish (pl): jeden, dwa, trzy, cztery, pięć, sześć, siedem, osiem, dziewięć, dziesięć
+- Russian (ru): один, два, три, четыре, пять, шесть, семь, восемь, девять, десять
+- Greek (el): ένα, δύο, τρία, τέσσερα, πέντε, έξι, επτά, οκτώ, εννέα, δέκα
+- Irish (ga): aon, dó, trí, ceathair, cúig, sé, seacht, ocht, naoi, deich
+- Slovenian (sl): ena, dva, tri, štiri, pet, šest, sedem, osem, devet, deset
+
+### Asia Region
+- Chinese (zh): 一, 二, 三, 四, 五, 六, 七, 八, 九, 十
+- Vietnamese (vi): một, hai, ba, bốn, năm, sáu, bảy, tám, chín, mười
+
+### Philippines Region
+- Tagalog (tl): isa, dalawa, tatlo, apat, lima, anim, pito, walo, siyam, sampu
+- Cebuano (ceb): usa, duha, tulo, upat, lima, unom, pito, walo, siyam, napulo
+
+### Middle East Region
+- Hebrew (he): אחת, שתיים, שלוש, ארבע, חמש, שש, שבע, שמונה, תשע, עשר
+- Aramaic (arc): ܚܕ, ܬܪܝܢ, ܬܠܬܐ, ܐܪܒܥܐ, ܚܡܫܐ, ܫܬܐ, ܫܒܥܐ, ܬܡܢܝܐ, ܬܫܥܐ, ܥܣܪܐ
+
+### Global
+- English (en): one, two, three, four, five, six, seven, eight, nine, ten
+- Spanish (es): uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez
+
+## Features
+
+1. **Interactive Flashcards**: Swipe left/right to navigate, tap to flip
+2. **Keyboard Navigation**: Arrow keys to navigate, Space to flip, Escape to go back
+3. **Progress Persistence**: Your progress is saved locally per language
+4. **19 Languages**: Covering Pacific, European, Asian, Philippine, and Middle Eastern languages
+5. **Pronunciation Guides**: Each word includes a phonetic pronunciation guide
+6. **Responsive Design**: Works on desktop and mobile devices
+7. **Accessibility**: Keyboard navigation, ARIA labels, reduced motion support
+
+## Technical Details
+
+- Built with React and TypeScript
+- Animations powered by Motion (Framer Motion)
+- Static JSON data (no backend required)
+- Deployed on Vercel
+- No user accounts or data collection
+- Open source
+
+## API Endpoints (Static JSON)
+
+- GET /data/categories.json - List of all languages grouped by region
+- GET /data/{langCode}.json - Flashcard data for a specific language
+
+## Contact
+
+For questions about this application or its content, please visit the GitHub repository.
+
+## License
+
+This educational content is provided freely for learning purposes.

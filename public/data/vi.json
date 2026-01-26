@@ -1,0 +1,17 @@
+{
+  "code": "vi",
+  "name": "Vietnamese",
+  "region": "Asia",
+  "cards": [
+    { "number": 1, "word": "một", "pronunciation": "moht", "image": "/images/vi/1.jpg" },
+    { "number": 2, "word": "hai", "pronunciation": "hai", "image": "/images/vi/2.jpg" },
+    { "number": 3, "word": "ba", "pronunciation": "bah", "image": "/images/vi/3.jpg" },
+    { "number": 4, "word": "bốn", "pronunciation": "bohn", "image": "/images/vi/4.jpg" },
+    { "number": 5, "word": "năm", "pronunciation": "nahm", "image": "/images/vi/5.jpg" },
+    { "number": 6, "word": "sáu", "pronunciation": "sow", "image": "/images/vi/6.jpg" },
+    { "number": 7, "word": "bảy", "pronunciation": "bye", "image": "/images/vi/7.jpg" },
+    { "number": 8, "word": "tám", "pronunciation": "tahm", "image": "/images/vi/8.jpg" },
+    { "number": 9, "word": "chín", "pronunciation": "chin", "image": "/images/vi/9.jpg" },
+    { "number": 10, "word": "mười", "pronunciation": "moo-ee", "image": "/images/vi/10.jpg" }
+  ]
+}

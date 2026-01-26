@@ -1,0 +1,17 @@
+{
+  "code": "tl",
+  "name": "Tagalog",
+  "region": "Philippines",
+  "cards": [
+    { "number": 1, "word": "isa", "pronunciation": "ee-SAH", "image": "/images/tl/1.jpg" },
+    { "number": 2, "word": "dalawa", "pronunciation": "dah-lah-WAH", "image": "/images/tl/2.jpg" },
+    { "number": 3, "word": "tatlo", "pronunciation": "taht-LOH", "image": "/images/tl/3.jpg" },
+    { "number": 4, "word": "apat", "pronunciation": "AH-paht", "image": "/images/tl/4.jpg" },
+    { "number": 5, "word": "lima", "pronunciation": "lee-MAH", "image": "/images/tl/5.jpg" },
+    { "number": 6, "word": "anim", "pronunciation": "AH-neem", "image": "/images/tl/6.jpg" },
+    { "number": 7, "word": "pito", "pronunciation": "pee-TOH", "image": "/images/tl/7.jpg" },
+    { "number": 8, "word": "walo", "pronunciation": "wah-LOH", "image": "/images/tl/8.jpg" },
+    { "number": 9, "word": "siyam", "pronunciation": "SHYAM", "image": "/images/tl/9.jpg" },
+    { "number": 10, "word": "sampu", "pronunciation": "sahm-POO", "image": "/images/tl/10.jpg" }
+  ]
+}

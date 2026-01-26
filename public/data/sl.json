@@ -1,0 +1,17 @@
+{
+  "code": "sl",
+  "name": "Slovenian",
+  "region": "Europe",
+  "cards": [
+    { "number": 1, "word": "ena", "pronunciation": "EH-nah", "image": "/images/sl/1.jpg" },
+    { "number": 2, "word": "dva", "pronunciation": "dvah", "image": "/images/sl/2.jpg" },
+    { "number": 3, "word": "tri", "pronunciation": "tree", "image": "/images/sl/3.jpg" },
+    { "number": 4, "word": "štiri", "pronunciation": "SHTEE-ree", "image": "/images/sl/4.jpg" },
+    { "number": 5, "word": "pet", "pronunciation": "peht", "image": "/images/sl/5.jpg" },
+    { "number": 6, "word": "šest", "pronunciation": "shehst", "image": "/images/sl/6.jpg" },
+    { "number": 7, "word": "sedem", "pronunciation": "SEH-dem", "image": "/images/sl/7.jpg" },
+    { "number": 8, "word": "osem", "pronunciation": "OH-sem", "image": "/images/sl/8.jpg" },
+    { "number": 9, "word": "devet", "pronunciation": "deh-VEHT", "image": "/images/sl/9.jpg" },
+    { "number": 10, "word": "deset", "pronunciation": "deh-SEHT", "image": "/images/sl/10.jpg" }
+  ]
+}

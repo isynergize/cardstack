@@ -1,0 +1,17 @@
+{
+  "code": "en",
+  "name": "English",
+  "region": "Global",
+  "cards": [
+    { "number": 1, "word": "one", "pronunciation": "wuhn", "image": "/images/en/1.jpg" },
+    { "number": 2, "word": "two", "pronunciation": "too", "image": "/images/en/2.jpg" },
+    { "number": 3, "word": "three", "pronunciation": "three", "image": "/images/en/3.jpg" },
+    { "number": 4, "word": "four", "pronunciation": "for", "image": "/images/en/4.jpg" },
+    { "number": 5, "word": "five", "pronunciation": "fyv", "image": "/images/en/5.jpg" },
+    { "number": 6, "word": "six", "pronunciation": "siks", "image": "/images/en/6.jpg" },
+    { "number": 7, "word": "seven", "pronunciation": "SEV-uhn", "image": "/images/en/7.jpg" },
+    { "number": 8, "word": "eight", "pronunciation": "ayt", "image": "/images/en/8.jpg" },
+    { "number": 9, "word": "nine", "pronunciation": "nyn", "image": "/images/en/9.jpg" },
+    { "number": 10, "word": "ten", "pronunciation": "ten", "image": "/images/en/10.jpg" }
+  ]
+}

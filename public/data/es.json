@@ -1,0 +1,17 @@
+{
+  "code": "es",
+  "name": "Spanish",
+  "region": "Global",
+  "cards": [
+    { "number": 1, "word": "uno", "pronunciation": "OO-noh", "image": "/images/es/1.jpg" },
+    { "number": 2, "word": "dos", "pronunciation": "dohs", "image": "/images/es/2.jpg" },
+    { "number": 3, "word": "tres", "pronunciation": "trehs", "image": "/images/es/3.jpg" },
+    { "number": 4, "word": "cuatro", "pronunciation": "KWAH-troh", "image": "/images/es/4.jpg" },
+    { "number": 5, "word": "cinco", "pronunciation": "SEEN-koh", "image": "/images/es/5.jpg" },
+    { "number": 6, "word": "seis", "pronunciation": "says", "image": "/images/es/6.jpg" },
+    { "number": 7, "word": "siete", "pronunciation": "SYEH-teh", "image": "/images/es/7.jpg" },
+    { "number": 8, "word": "ocho", "pronunciation": "OH-choh", "image": "/images/es/8.jpg" },
+    { "number": 9, "word": "nueve", "pronunciation": "NWEH-beh", "image": "/images/es/9.jpg" },
+    { "number": 10, "word": "diez", "pronunciation": "dyehs", "image": "/images/es/10.jpg" }
+  ]
+}

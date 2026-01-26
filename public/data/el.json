@@ -1,0 +1,17 @@
+{
+  "code": "el",
+  "name": "Greek",
+  "region": "Europe",
+  "cards": [
+    { "number": 1, "word": "ένα", "pronunciation": "EH-nah", "image": "/images/el/1.jpg" },
+    { "number": 2, "word": "δύο", "pronunciation": "THEE-oh", "image": "/images/el/2.jpg" },
+    { "number": 3, "word": "τρία", "pronunciation": "TREE-ah", "image": "/images/el/3.jpg" },
+    { "number": 4, "word": "τέσσερα", "pronunciation": "TEH-seh-rah", "image": "/images/el/4.jpg" },
+    { "number": 5, "word": "πέντε", "pronunciation": "PEN-deh", "image": "/images/el/5.jpg" },
+    { "number": 6, "word": "έξι", "pronunciation": "EK-see", "image": "/images/el/6.jpg" },
+    { "number": 7, "word": "επτά", "pronunciation": "ep-TAH", "image": "/images/el/7.jpg" },
+    { "number": 8, "word": "οκτώ", "pronunciation": "ok-TOH", "image": "/images/el/8.jpg" },
+    { "number": 9, "word": "εννέα", "pronunciation": "eh-NEH-ah", "image": "/images/el/9.jpg" },
+    { "number": 10, "word": "δέκα", "pronunciation": "THEH-kah", "image": "/images/el/10.jpg" }
+  ]
+}

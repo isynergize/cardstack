@@ -1,0 +1,17 @@
+{
+  "code": "ru",
+  "name": "Russian",
+  "region": "Europe",
+  "cards": [
+    { "number": 1, "word": "один", "pronunciation": "ah-DEEN", "image": "/images/ru/1.jpg" },
+    { "number": 2, "word": "два", "pronunciation": "dvah", "image": "/images/ru/2.jpg" },
+    { "number": 3, "word": "три", "pronunciation": "tree", "image": "/images/ru/3.jpg" },
+    { "number": 4, "word": "четыре", "pronunciation": "cheh-TIH-ryeh", "image": "/images/ru/4.jpg" },
+    { "number": 5, "word": "пять", "pronunciation": "pyaht", "image": "/images/ru/5.jpg" },
+    { "number": 6, "word": "шесть", "pronunciation": "shehst", "image": "/images/ru/6.jpg" },
+    { "number": 7, "word": "семь", "pronunciation": "syehm", "image": "/images/ru/7.jpg" },
+    { "number": 8, "word": "восемь", "pronunciation": "VOH-syehm", "image": "/images/ru/8.jpg" },
+    { "number": 9, "word": "девять", "pronunciation": "DYEH-vyaht", "image": "/images/ru/9.jpg" },
+    { "number": 10, "word": "десять", "pronunciation": "DYEH-syaht", "image": "/images/ru/10.jpg" }
+  ]
+}

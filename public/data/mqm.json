@@ -1,0 +1,17 @@
+{
+  "code": "mqm",
+  "name": "Marquesan",
+  "region": "Pacific",
+  "cards": [
+    { "number": 1, "word": "tahi", "pronunciation": "TAH-hee", "image": "/images/mqm/1.jpg" },
+    { "number": 2, "word": "ʻua", "pronunciation": "OO-ah", "image": "/images/mqm/2.jpg" },
+    { "number": 3, "word": "toʻu", "pronunciation": "TOH-oo", "image": "/images/mqm/3.jpg" },
+    { "number": 4, "word": "fa", "pronunciation": "FAH", "image": "/images/mqm/4.jpg" },
+    { "number": 5, "word": "ʻima", "pronunciation": "EE-mah", "image": "/images/mqm/5.jpg" },
+    { "number": 6, "word": "ono", "pronunciation": "OH-noh", "image": "/images/mqm/6.jpg" },
+    { "number": 7, "word": "fitu", "pronunciation": "FEE-too", "image": "/images/mqm/7.jpg" },
+    { "number": 8, "word": "vaʻu", "pronunciation": "VAH-oo", "image": "/images/mqm/8.jpg" },
+    { "number": 9, "word": "iva", "pronunciation": "EE-vah", "image": "/images/mqm/9.jpg" },
+    { "number": 10, "word": "onohuʻu", "pronunciation": "oh-noh-HOO-oo", "image": "/images/mqm/10.jpg" }
+  ]
+}

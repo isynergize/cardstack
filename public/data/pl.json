@@ -1,0 +1,17 @@
+{
+  "code": "pl",
+  "name": "Polish",
+  "region": "Europe",
+  "cards": [
+    { "number": 1, "word": "jeden", "pronunciation": "YEH-den", "image": "/images/pl/1.jpg" },
+    { "number": 2, "word": "dwa", "pronunciation": "dvah", "image": "/images/pl/2.jpg" },
+    { "number": 3, "word": "trzy", "pronunciation": "tshih", "image": "/images/pl/3.jpg" },
+    { "number": 4, "word": "cztery", "pronunciation": "CHTEH-rih", "image": "/images/pl/4.jpg" },
+    { "number": 5, "word": "pięć", "pronunciation": "pyench", "image": "/images/pl/5.jpg" },
+    { "number": 6, "word": "sześć", "pronunciation": "sheshch", "image": "/images/pl/6.jpg" },
+    { "number": 7, "word": "siedem", "pronunciation": "SHYEH-dem", "image": "/images/pl/7.jpg" },
+    { "number": 8, "word": "osiem", "pronunciation": "OH-shyem", "image": "/images/pl/8.jpg" },
+    { "number": 9, "word": "dziewięć", "pronunciation": "JEH-vyench", "image": "/images/pl/9.jpg" },
+    { "number": 10, "word": "dziesięć", "pronunciation": "JEH-shench", "image": "/images/pl/10.jpg" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "code": "fr",
+  "name": "French",
+  "region": "Europe",
+  "cards": [
+    { "number": 1, "word": "un", "pronunciation": "uhn", "image": "/images/fr/1.jpg" },
+    { "number": 2, "word": "deux", "pronunciation": "duh", "image": "/images/fr/2.jpg" },
+    { "number": 3, "word": "trois", "pronunciation": "twah", "image": "/images/fr/3.jpg" },
+    { "number": 4, "word": "quatre", "pronunciation": "KAH-truh", "image": "/images/fr/4.jpg" },
+    { "number": 5, "word": "cinq", "pronunciation": "sank", "image": "/images/fr/5.jpg" },
+    { "number": 6, "word": "six", "pronunciation": "sees", "image": "/images/fr/6.jpg" },
+    { "number": 7, "word": "sept", "pronunciation": "set", "image": "/images/fr/7.jpg" },
+    { "number": 8, "word": "huit", "pronunciation": "weet", "image": "/images/fr/8.jpg" },
+    { "number": 9, "word": "neuf", "pronunciation": "nuhf", "image": "/images/fr/9.jpg" },
+    { "number": 10, "word": "dix", "pronunciation": "dees", "image": "/images/fr/10.jpg" }
+  ]
+}

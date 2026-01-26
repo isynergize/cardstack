@@ -1,0 +1,17 @@
+{
+  "code": "zh",
+  "name": "Chinese",
+  "region": "Asia",
+  "cards": [
+    { "number": 1, "word": "一", "pronunciation": "yī (ee)", "image": "/images/zh/1.jpg" },
+    { "number": 2, "word": "二", "pronunciation": "èr (ar)", "image": "/images/zh/2.jpg" },
+    { "number": 3, "word": "三", "pronunciation": "sān (sahn)", "image": "/images/zh/3.jpg" },
+    { "number": 4, "word": "四", "pronunciation": "sì (suh)", "image": "/images/zh/4.jpg" },
+    { "number": 5, "word": "五", "pronunciation": "wǔ (woo)", "image": "/images/zh/5.jpg" },
+    { "number": 6, "word": "六", "pronunciation": "liù (lyoh)", "image": "/images/zh/6.jpg" },
+    { "number": 7, "word": "七", "pronunciation": "qī (chee)", "image": "/images/zh/7.jpg" },
+    { "number": 8, "word": "八", "pronunciation": "bā (bah)", "image": "/images/zh/8.jpg" },
+    { "number": 9, "word": "九", "pronunciation": "jiǔ (jyoh)", "image": "/images/zh/9.jpg" },
+    { "number": 10, "word": "十", "pronunciation": "shí (shur)", "image": "/images/zh/10.jpg" }
+  ]
+}

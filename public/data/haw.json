@@ -1,0 +1,17 @@
+{
+  "code": "haw",
+  "name": "Hawaiian",
+  "region": "Pacific",
+  "cards": [
+    { "number": 1, "word": "ʻekahi", "pronunciation": "eh-KAH-hee", "image": "/images/haw/1.jpg" },
+    { "number": 2, "word": "ʻelua", "pronunciation": "eh-LOO-ah", "image": "/images/haw/2.jpg" },
+    { "number": 3, "word": "ʻekolu", "pronunciation": "eh-KOH-loo", "image": "/images/haw/3.jpg" },
+    { "number": 4, "word": "ʻehā", "pronunciation": "eh-HAH", "image": "/images/haw/4.jpg" },
+    { "number": 5, "word": "ʻelima", "pronunciation": "eh-LEE-mah", "image": "/images/haw/5.jpg" },
+    { "number": 6, "word": "ʻeono", "pronunciation": "eh-OH-noh", "image": "/images/haw/6.jpg" },
+    { "number": 7, "word": "ʻehiku", "pronunciation": "eh-HEE-koo", "image": "/images/haw/7.jpg" },
+    { "number": 8, "word": "ʻewalu", "pronunciation": "eh-WAH-loo", "image": "/images/haw/8.jpg" },
+    { "number": 9, "word": "ʻeiwa", "pronunciation": "eh-EE-vah", "image": "/images/haw/9.jpg" },
+    { "number": 10, "word": "ʻumi", "pronunciation": "OO-mee", "image": "/images/haw/10.jpg" }
+  ]
+}

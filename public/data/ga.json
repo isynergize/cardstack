@@ -1,0 +1,17 @@
+{
+  "code": "ga",
+  "name": "Irish",
+  "region": "Europe",
+  "cards": [
+    { "number": 1, "word": "aon", "pronunciation": "ayn", "image": "/images/ga/1.jpg" },
+    { "number": 2, "word": "dó", "pronunciation": "doh", "image": "/images/ga/2.jpg" },
+    { "number": 3, "word": "trí", "pronunciation": "tree", "image": "/images/ga/3.jpg" },
+    { "number": 4, "word": "ceathair", "pronunciation": "KYA-hir", "image": "/images/ga/4.jpg" },
+    { "number": 5, "word": "cúig", "pronunciation": "KOO-ig", "image": "/images/ga/5.jpg" },
+    { "number": 6, "word": "sé", "pronunciation": "shay", "image": "/images/ga/6.jpg" },
+    { "number": 7, "word": "seacht", "pronunciation": "shakht", "image": "/images/ga/7.jpg" },
+    { "number": 8, "word": "ocht", "pronunciation": "ukht", "image": "/images/ga/8.jpg" },
+    { "number": 9, "word": "naoi", "pronunciation": "nee", "image": "/images/ga/9.jpg" },
+    { "number": 10, "word": "deich", "pronunciation": "jeh", "image": "/images/ga/10.jpg" }
+  ]
+}
