@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Homepage / Language Selector -->
   <url>
-    <loc>https://your-domain.com/</loc>
+    <loc>https://multilingual-numbers.examplefor.me/</loc>
     <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 
-  <!-- Pacific Languages -->
+  <!-- Oceania Languages -->
   <url>
-    <loc>https://your-domain.com/?lang=haw</loc>
+    <loc>https://multilingual-numbers.examplefor.me/?lang=haw</loc>
     <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/?lang=ty</loc>
+    <loc>https://multilingual-numbers.examplefor.me/?lang=ty</loc>
     <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/?lang=mi</loc>
+    <loc>https://multilingual-numbers.examplefor.me/?lang=mi</loc>
     <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/?lang=mqm</loc>
+    <loc>https://multilingual-numbers.examplefor.me/?lang=mqm</loc>
     <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -36,43 +36,43 @@
 
   <!-- European Languages -->
   <url>
-    <loc>https://your-domain.com/?lang=fr</loc>
+    <loc>https://multilingual-numbers.examplefor.me/?lang=fr</loc>
     <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/?lang=de</loc>
+    <loc>https://multilingual-numbers.examplefor.me/?lang=de</loc>
     <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/?lang=pl</loc>
+    <loc>https://multilingual-numbers.examplefor.me/?lang=pl</loc>
     <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/?lang=ru</loc>
+    <loc>https://multilingual-numbers.examplefor.me/?lang=ru</loc>
     <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/?lang=el</loc>
+    <loc>https://multilingual-numbers.examplefor.me/?lang=el</loc>
     <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/?lang=ga</loc>
+    <loc>https://multilingual-numbers.examplefor.me/?lang=ga</loc>
     <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/?lang=sl</loc>
+    <loc>https://multilingual-numbers.examplefor.me/?lang=sl</loc>
     <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -80,13 +80,13 @@
 
   <!-- Asian Languages -->
   <url>
-    <loc>https://your-domain.com/?lang=zh</loc>
+    <loc>https://multilingual-numbers.examplefor.me/?lang=zh</loc>
     <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/?lang=vi</loc>
+    <loc>https://multilingual-numbers.examplefor.me/?lang=vi</loc>
     <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -94,13 +94,13 @@
 
   <!-- Philippine Languages -->
   <url>
-    <loc>https://your-domain.com/?lang=tl</loc>
+    <loc>https://multilingual-numbers.examplefor.me/?lang=tl</loc>
     <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/?lang=ceb</loc>
+    <loc>https://multilingual-numbers.examplefor.me/?lang=ceb</loc>
     <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -108,13 +108,13 @@
 
   <!-- Middle Eastern Languages -->
   <url>
-    <loc>https://your-domain.com/?lang=he</loc>
+    <loc>https://multilingual-numbers.examplefor.me/?lang=he</loc>
     <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/?lang=arc</loc>
+    <loc>https://multilingual-numbers.examplefor.me/?lang=arc</loc>
     <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -122,13 +122,13 @@
 
   <!-- Global Languages -->
   <url>
-    <loc>https://your-domain.com/?lang=en</loc>
+    <loc>https://multilingual-numbers.examplefor.me/?lang=en</loc>
     <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-domain.com/?lang=es</loc>
+    <loc>https://multilingual-numbers.examplefor.me/?lang=es</loc>
     <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
