@@ -108,6 +108,11 @@
   margin: 0 0 2rem 0;
 }
 
+/* Rando human thing */
+.blarb p{
+  text-align: center;
+}
+
 /* Regions */
 .regions-container {
   display: flex;

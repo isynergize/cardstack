@@ -192,7 +192,7 @@ export default function App() {
           />
         )}
       </main>
-      <footer>Made with ❤️🧠</footer>
+      <footer><div className="blarb"><p>Made with ❤️🧠</p></div></footer>
     </>
   );
 }
