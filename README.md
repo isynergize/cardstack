@@ -18,6 +18,9 @@ An interactive flashcard application for learning to count from 1 to 10 in 19 di
 - **Accessibility**: ARIA labels, keyboard navigation, reduced motion support
 - **SEO Optimized**: Meta tags, Open Graph, structured data, sitemap, llms.txt
 
+## In The Funnel
+- **Cultural accuracy** Placeholder images will be replaced with generated images per each language category.
+
 ## Demo
 
 [Live Demo](https://multilingual-numbers.examplefor.me/)
