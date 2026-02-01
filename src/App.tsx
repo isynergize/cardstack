@@ -192,6 +192,7 @@ export default function App() {
           />
         )}
       </main>
+      <footer>Made with ❤️🧠</footer>
     </>
   );
 }
