@@ -1,5 +1,5 @@
 # Learn Numbers Flashcard App
-# https://your-domain.com
+# https://multilingual-numbers.examplefor.me/
 # Last Updated: 2026-01-25
 
 ## Overview

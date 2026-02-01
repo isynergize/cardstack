@@ -50,7 +50,7 @@ Add images for each language to create culturally-relevant flashcards.
 
 | Folder | Language | Theme Ideas |
 |--------|----------|-------------|
-| `he/` | Hebrew | Pomegranates, olive branches, menorahs, stars of David |
+| `he/` | Hebrew | Pomegranates, olive branches, menorahs, star of David |
 | `arc/` | Aramaic | Ancient scrolls, cedar trees, stone tablets, oil lamps |
 
 ### Global

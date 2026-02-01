@@ -4,7 +4,7 @@
       "id": "oceania",
       "name": "Oceania",
       "languages": [
-        { "code": "haw", "name": "Hawaiian", "flag": "🏝️" },
+        { "code": "haw", "name": "Hawaiian", "flag": "🌈" },
         { "code": "ty", "name": "Tahitian", "flag": "🇵🇫" },
         { "code": "mi", "name": "Māori", "flag": "🇳🇿" },
         { "code": "mqm", "name": "Marquesan", "flag": "🇵🇫" }
@@ -51,7 +51,7 @@
       "id": "global",
       "name": "Global",
       "languages": [
-        { "code": "en", "name": "English", "flag": "🇬🇧" },
+        { "code": "en", "name": "English", "flag": "🇺🇸" },
         { "code": "es", "name": "Spanish", "flag": "🇪🇸" }
       ]
     }

@@ -20,7 +20,7 @@ An interactive flashcard application for learning to count from 1 to 10 in 19 di
 
 ## Demo
 
-[Live Demo](https://your-domain.com)
+[Live Demo](https://multilingual-numbers.examplefor.me/)
 
 ## Quick Start
 
@@ -179,7 +179,7 @@ npm run build
 
 Update these placeholder URLs before deployment:
 
-- `index.html` - Update `https://your-domain.com` references
+- `index.html` - Update `https://multilingual-numbers.examplefor.me/` references
 - `public/robots.txt` - Update sitemap URL
 - `public/sitemap.xml` - Update all URLs
 - `public/llms.txt` - Update domain reference
